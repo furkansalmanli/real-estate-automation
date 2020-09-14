@@ -1,0 +1,17 @@
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe.config
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.pdb
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Form1.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Properties.Resources.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.GenerateResource.Cache
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.exe
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.pdb
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Kayit_Paneli.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Musteri_kayit.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Adres_kayit.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Musterim_tablosu.resources
+C:\Users\TOSH\source\repos\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.iletisim.resources
+C:\Users\msı\Desktop\Furkan SALMANLI 201613172021 Veri Tabanı Yönetim Sistemleri Proje( Emlak Uygulaması)\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.exe
+C:\Users\msı\Desktop\Furkan SALMANLI 201613172021 Veri Tabanı Yönetim Sistemleri Proje( Emlak Uygulaması)\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.pdb
